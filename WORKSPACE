@@ -225,7 +225,7 @@ load(
 container_pull(
     name = "ubuntu23",
     architecture = "amd64",
-    digest = "sha256:5cd569b792a8b7b483d90942381cd7e0b03f0a15520d6e23fb7a1464a25a71b1",
+    digest = "sha256:008c4aa50da87ad7bc586a47787491f76c79c62cc5bdbee29121ee9e02c03f3e",
     registry = "index.docker.io",
     repository = "library/ubuntu",
     tag = "23.10",
